@@ -1,0 +1,32 @@
+
+.header {
+  margin: 10px;
+  border: black 2px solid;
+  position: relative;
+  font-size: 20px;
+  color: white;
+}
+
+
+.orgColor {
+  color: darkblue;
+}
+
+.App-logo {
+  height: 50PX;
+  width: 50PX;
+}
+
+.main {
+  height: 300px;
+  margin: 10px;
+  border: black 2px solid;
+}
+
+.box {
+  display: flex;
+  margin: 10px;
+  border: black 2px solid;
+  padding: 10px;
+}
+
